@@ -1,0 +1,41 @@
+<style>
+
+.slider-container {
+    width: 1152px;
+    height: 1440px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	text-align: center;
+	
+}
+.image-container{
+	width: 2304px‬;
+    height:1440px;
+    position: relative;
+    transition: left 2s;
+    -webkit-transition: left 2s;
+}
+	
+}
+.slider-image {
+	float: left;
+	margin: 0px;
+	padding:0px;
+}
+.button-container{
+	top:-20px;
+	position: relative;
+	
+}
+.slide-button{
+	
+}</style>
+<div class="slide-container">
+	<div class="image-container">
+	    <img src="photos/the internet friends tee 1.jpg" class="slider-image">
+		<img src="photos/the internet friends tee 2.jpg" class="slider-image">
+		</div>
+	<div class="button-container"
+		 
+	</div>
